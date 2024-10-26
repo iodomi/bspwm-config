@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/io/Desktop/steam.desktop]
+row=1
+col=0
+
+[/home/io/Desktop/Persona 4 Golden.desktop]
+row=2
+col=0
+
+[/home/io/Desktop/code]
+row=5
+col=0
+
+[/home/io/Desktop/yay]
+row=4
+col=0
+
+[Trash]
+row=0
+col=0
+
+[/home/io]
+row=3
+col=0
+

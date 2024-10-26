@@ -86,8 +86,7 @@ configuration {
 	font: "Mono 12";
 	sort: false;
 	threads: 0;
-	click-to-exit: true;
-/*	ignored-prefixes: "";*/
+	click-to-exit: true;/*	ignored-prefixes: "";*/
 /*	pid: "/run/user/1000/rofi.pid";*/
 
 	/*---------- File browser settings ----------*/
@@ -181,4 +180,5 @@ configuration {
 }
 //@theme "/home/io/.local/share/rofi/themes/rounded-green-dark.rasi"
 //@theme "/usr/share/rofi/themes/dmenu.rasi"
-@theme "/home/io/.local/share/rofi/themes/squared-everforest.rasi"
+//@theme "/home/io/.local/share/rofi/themes/squared-everforest.rasi"
+@theme "/home/io/.local/share/rofi/themes/omnom.rasi"
